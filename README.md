@@ -9,7 +9,7 @@
 
 ---
 
-I am EarthToAccess, a 20 year old guy who enjoys coding and programming. Currently, there are no repositories or projects you can find here, as I am primarily using this account for collaborations and grabbing repositories my own self!
+I am EarthToAccess, a 20 year old guy who enjoys coding and programming. I'm currently creating a potential desktop environment made in Godot Engine, and am beginning to go into web development. There isn't much here other than that, though, so hang tight!
 
 ---
 
